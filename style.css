@@ -102,10 +102,10 @@ body {
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
 .ie {background: url(http://4.bp.blogspot.com/_aUi8g5o90AQ/S9jNKP8NNnI/AAAAAAAAAUU/zi4CXLuNpc8/s1600/Doctor+Who+logo+-+new+2.jpg) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
-.op {background: url(./images/op.png) no-repeat; background-size: contain;}
+.fx {background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7V9My410F-k3wdCpdiazuGVpxa8Wt5SnkHw7WNlJ3OqZL5a7-) no-repeat; background-size: contain;}
+.cr {background: url(https://si0.twimg.com/profile_images/1955082474/FB_New_Icon_copy_copy.jpg) no-repeat; background-size: contain;}
+.sf {background: url(http://4.bp.blogspot.com/_PA9sJ4LTJCM/TF2aFUqfJHI/AAAAAAAACcY/p00fXWFC5Ug/s400/Sherlock.logo+c%C3%B3pia.jpgg) no-repeat; background-size: contain;}
+.op {background: url(http://b1969d.medialib.glogster.com/media/dbfb42f678c1ef7021acb643730ff1a89bffb119c40113f5c503e390cccc6573/the-hunger-games-wallpaper-logo-2560x1600.jpg) no-repeat; background-size: contain;}
 .ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
 .tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
 .fm {background: url(./images/fm.png) no-repeat; background-size: contain;}
