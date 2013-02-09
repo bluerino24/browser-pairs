@@ -234,7 +234,7 @@ body {
 }
 
 .front {
-  background: url(http://www.boxymouse.com/wp-content/uploads/2011/04/boxy_question_mark.jpg) 0 0;
+  background: url(http://www.boxymouse.com/wp-content/uploads/2011/04/boxy_question_mark.jpg) 0 0; background-position: center;
   z-index: 10;
   border-radius: 4px;
 }
