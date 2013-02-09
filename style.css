@@ -234,7 +234,7 @@ body {
 }
 
 .front {
-  background: url(http://evolvefish.com/ShirtImages/ShirtImagesSmall/QuestionMark-Small.gif) 0 0; background-position: center;
+  background: url(http://evolvefish.com/ShirtImages/ShirtImagesSmall/QuestionMark-Small.gif) 0 0; background-size: cover;
   z-index: 10;
   border-radius: 4px;
 }
