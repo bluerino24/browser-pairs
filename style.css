@@ -130,7 +130,7 @@ body {
 #game.open #gameIntro {
   opacity: 1;
   z-index: 3;
-  background: url(http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=dLIXUXoyWiJC8M&tbnid=gQK2qZtFOt2XMM:&ved=&url=http%3A%2F%2Fstardustgirl13.deviantart.com%2Fart%2FTumblr-Fandoms-296645291&ei=pgsXUeyrBYfs2QWIgYGwBA&bvm=bv.42080656,d.b2I&psig=AFQjCNH3VFIX4gB75gXHlYlSMsD0U0F_ew&ust=1360551206396526) center center no-repeat;
+  background: url(http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=dLIXUXoyWiJC8M&tbnid=gQK2qZtFOt2XMM:&ved=&url=http%3A%2F%2Fstardustgirl13.deviantart.com%2Fart%2FTumblr-Fandoms-296645291&ei=pgsXUeyrBYfs2QWIgYGwBA&bvm=bv.42080656,d.b2I&psig=AFQjCNH3VFIX4gB75gXHlYlSMsD0U0F_ew&ust=1360551206396526) center no-repeat;
 }
 
 #game.play #gameIntro, #game.end #gameIntro {
